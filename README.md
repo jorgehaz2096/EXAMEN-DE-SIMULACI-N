@@ -1,0 +1,2 @@
+# EXAMEN-DE-SIMULACI-N
+Ejercicio 2 del sistema de inventario, JORGE HERNANDEZ LOPEZ// WINSTON JOEL ABURTO SANCHEZ
